@@ -1,0 +1,13 @@
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\bin\Debug\netcoreapp3.1\DieRoller.exe
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\bin\Debug\netcoreapp3.1\DieRoller.deps.json
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\bin\Debug\netcoreapp3.1\DieRoller.runtimeconfig.json
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\bin\Debug\netcoreapp3.1\DieRoller.runtimeconfig.dev.json
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\bin\Debug\netcoreapp3.1\DieRoller.dll
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\bin\Debug\netcoreapp3.1\DieRoller.pdb
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\obj\Debug\netcoreapp3.1\DieRoller.csprojAssemblyReference.cache
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\obj\Debug\netcoreapp3.1\DieRoller.AssemblyInfoInputs.cache
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\obj\Debug\netcoreapp3.1\DieRoller.AssemblyInfo.cs
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\obj\Debug\netcoreapp3.1\DieRoller.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\obj\Debug\netcoreapp3.1\DieRoller.dll
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\obj\Debug\netcoreapp3.1\DieRoller.pdb
+C:\Users\Blake\source\l2p\DieRoller\DieRoller\obj\Debug\netcoreapp3.1\DieRoller.genruntimeconfig.cache
